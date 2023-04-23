@@ -29,3 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savaliyadnk&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact&theme=nord" alt="savaliyadnk" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=savaliyadnk&show_icons=true&locale=en&theme=nord" alt="savaliyadnk" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=savaliyadnk&&theme=nord" alt="savaliyadnk" /></p>
+
+<img src="/images/boot-process.png" width="200">
+
+
