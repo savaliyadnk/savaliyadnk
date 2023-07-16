@@ -1,4 +1,3 @@
-Embedded Open source
 
 # ComputerScience 
 https://www.youtube.com/@ComputerScienceLessons
